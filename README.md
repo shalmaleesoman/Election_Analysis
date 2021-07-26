@@ -19,11 +19,7 @@
   
   **2. the percentage of voted from each couty out of the total count**
   
-  **3. The county with the highest turnout**
-  
-  ## Resources
-  
-  The resources we used was the **data source:** **election_results.csv**, with the software of python while editing the code in Visual studio. 
+  **3. The county with the highest turnout** 
   
   ## Results
   
@@ -53,6 +49,9 @@ The candidate with the highest percentage was **Diana DeGette with 73.8%** (272,
 
 The winner was **Diana DeGette**
   
+## Resources
+  
+  The resources we used was the **data source:** **election_results.csv**, with the software of python while editing the code in Visual studio. 
   
   
   
